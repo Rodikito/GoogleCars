@@ -1,0 +1,7 @@
+c:\users\jrodes\source\repos\GoogleCars\GoogleCars\bin\Debug\GoogleCars.exe.config
+c:\users\jrodes\source\repos\GoogleCars\GoogleCars\bin\Debug\GoogleCars.exe
+c:\users\jrodes\source\repos\GoogleCars\GoogleCars\bin\Debug\GoogleCars.pdb
+c:\users\jrodes\source\repos\GoogleCars\GoogleCars\obj\Debug\GoogleCars.csproj.CoreCompileInputs.cache
+c:\users\jrodes\source\repos\GoogleCars\GoogleCars\obj\Debug\GoogleCars.exe
+c:\users\jrodes\source\repos\GoogleCars\GoogleCars\obj\Debug\GoogleCars.pdb
+c:\users\jrodes\source\repos\GoogleCars\GoogleCars\obj\Debug\GoogleCars.csprojResolveAssemblyReference.cache
