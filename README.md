@@ -1,5 +1,5 @@
 # GoogleCars
-Code created as an exercise of 'Self-driving rides' Google Hash code problem out of competition. Made mostly with Linq
+Code created as an exercise of 'Self-driving rides' Google Hash code 2018 problem out of competition. Made mostly with Linq
 
 # Score
 | # | Score |
